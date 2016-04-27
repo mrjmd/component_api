@@ -1,0 +1,6 @@
+name: Component API
+type: module
+description: 'Build decoupled components of markup, css, js, and more.'
+package: PDB
+version: '8.x-1.0-dev'
+core: '8.x'
